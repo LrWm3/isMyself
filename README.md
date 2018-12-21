@@ -7,7 +7,7 @@ Function which returns true when provided itself
 ## Installation
 
 ```
-npm i isMyself
+npm i ismyself
 ```
 
 ## Example Usage
