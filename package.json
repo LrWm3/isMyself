@@ -1,0 +1,38 @@
+{
+  "name": "ismyself",
+  "version": "1.0.0",
+  "description": "A function which returns if it has been supplied itself as the first argument",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamTheMarsman/isMyself.git"
+  },
+  "keywords": [
+    "isMyself",
+    "javascript",
+    "lib",
+    "library",
+    "ES2015",
+    "ES2016",
+    "ES2017",
+    "ES2018",
+    "ES2019",
+    "ES2020",
+    "ES202X",
+    "standardLibrary",
+    "boost",
+    "AGPL"
+  ],
+  "author": "William Marsman",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/WilliamTheMarsman/isMyself/issues"
+  },
+  "homepage": "https://github.com/WilliamTheMarsman/isMyself#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
