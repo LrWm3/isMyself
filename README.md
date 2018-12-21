@@ -19,7 +19,7 @@ let isMyself = require('isMyself')
 let func = (x) => x * x
 let numbers = [1, 2, 3, 4, 5, isMyself]
 for (let ii=0; !isMyself(numbers[ii]); ++ii) {
-   numbers[ii] = function(numbers[ii])
+   numbers[ii] = func(numbers[ii])
 }
 ```
 
