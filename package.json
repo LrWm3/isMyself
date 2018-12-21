@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/WilliamTheMarsman/isMyself/issues"
   },
-  "homepage": "https://github.com/WilliamTheMarsman/isMyself#readme"
+  "homepage": "https://github.com/WilliamTheMarsman/isMyself#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
 }
