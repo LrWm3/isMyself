@@ -1,8 +1,8 @@
 # isMyself
 
-Function which returns true when provided itself
-
 [![Build Status](https://travis-ci.org/WilliamTheMarsman/isMyself.svg?branch=master)](https://travis-ci.org/WilliamTheMarsman/isMyself)
+
+Function which returns true when provided itself
 
 ## Installation
 
